@@ -1,6 +1,13 @@
 # MathProportion
 Simple mathematical proportion in c++ language
 
+## How to use?
+Set fraction values in the order *numerator-denominator* = *numerator-denominator*
+Example:
+51(first)   16(third)
+--------- = --------
+x(second)   41(fourth)
+
 ## Run
 To compile and run it: `g++ main.cpp -o main && ./main`<br>
 You can also use `run.sh`: `chmod +x run.sh && ./run.sh`<br>
