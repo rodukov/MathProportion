@@ -2,9 +2,9 @@
 Simple mathematical proportion in c++ language
 
 ## How to use?
-Set fraction values in the order *numerator-denominator* = *numerator-denominator*
-Example:
-51(first)   16(third)
+Set fraction values in the order *numerator-denominator* = *numerator-denominator*<br>
+Example:<br>
+51(first)   16(third)<br>
 --------- = --------
 x(second)   41(fourth)
 
