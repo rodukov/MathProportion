@@ -5,7 +5,7 @@ Simple mathematical proportion in c++ language
 Set fraction values in the order *numerator-denominator* = *numerator-denominator*<br>
 Example:<br>
 51(first)   16(third)<br>
---------- = --------
+--------- = --------<br>
 x(second)   41(fourth)
 
 ## Run
