@@ -8,7 +8,7 @@ Example:<br>
 --------- = --------<br>
 x(second)   41(fourth)
 
-## Run
+## Run(c++)
 To compile and run it: `g++ main.cpp -o main && ./main`<br>
 You can also use `run.sh`: `chmod +x run.sh && ./run.sh`<br>
 Run only binary file: `chmod +x main && ./main`
@@ -16,3 +16,6 @@ Run only binary file: `chmod +x main && ./main`
 First, install g++(Debian/Ubuntu): `sudo apt install g++`<br>
 Second, compile: `g++ main.cpp -o main`<br>
 Third, run it: `./main`
+
+## Run(js)
+You need to install node.js, then run the command: `node main.js`
